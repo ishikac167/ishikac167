@@ -16,6 +16,7 @@
       <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pbi" width="40" height="40"/></a>
      <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/tableau.svg" alt="pbi" width="40" height="40"/></a>
+        <a href="https://www.qlik.com/us/products/qlik-sense" target="_blank"><img src=" https://github.com/get-icon/geticon/blob/master/icons/qlik.svg" alt="qliksense" width="40" height="40"/></a>
      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/></a>
 </p>
 
