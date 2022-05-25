@@ -1,6 +1,8 @@
 <h2>Hi there 👋, I'm <font style="color:blue">Ishika Chokshi</font></h2>
 
-<h2 align="center">My Tech Bag🎒 </h2>
+<p>I am a third year IT Engineering student from DJ Sanghvi College of Engineering, Mumbai, India. I have a keen interest in business intelligence & analytics and data analysis. I have deep knowledge of BI tools like Microsoft Power BI and QlikSense in transforming operations reporting processes from manual, Excel-based operations to real time auto updating processing along with the development of self service dashboards. I also have a past experience of working on industrial projects requiring to create reports and dashboards and leading the college student chapter in their decision making and organising competitions across Mumbai.</p>
+
+<h2 align="center">My Technical Skills</h2>
 <p align="center">
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -11,7 +13,9 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<!--   <a href="https://powerbi.microsoft.com/en/" target="_blank"><img src="" /></a> -->
+      <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="pbi" width="40" height="40"/></a>
+     <a href="https://code.visualstudio.com/" target="_blank"><img src="   https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/></a>
 </p>
 
 <h2 align="center">My Social Links 🔗 </h2>
