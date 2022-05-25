@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h2>Hi there 👋, I'm <font style="color:blue">Ishika Chokshi</font></h2>
 <!--
 **ishikac167/ishikac167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
