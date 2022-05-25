@@ -17,7 +17,7 @@
 <h2 align="center">My Social Links 🔗 </h2>
 <p align="center">
 <a href="https://github.com/ishikac167" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg' alt='github' height='40'></a>  
- <a href="https://www.linkedin.com/in/ishika-chokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svgg' alt='linkedin' height='40'> </a> 
+ <a href="https://www.linkedin.com/in/ishika-chokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'> </a> 
  <a href="https://www.instagram.com/ishikachokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'></a> 
 </p>
 
