@@ -21,6 +21,8 @@
  <a href="https://www.instagram.com/ishikachokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'></a> 
 </p>
 
+<p>Check out my entire profile <a href="https://ishikac167.github.io/">here</a>!</p>
+
 <!--
 **ishikac167/ishikac167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
