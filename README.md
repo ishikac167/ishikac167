@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://github.com/ishikac167" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
  <a href="https://www.linkedin.com/in/ishika-chokshi/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> 
- <a href="https://www.instagram.com/ishikachokshi/" target="_blank"><img src='https://www.freepik.com/free-vector/instagram-icon_954290.htm' alt='instagram' height='40'></a> 
+ <a href="https://www.instagram.com/ishikachokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'></a> 
 </p>
 
 <!--
