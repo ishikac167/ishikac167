@@ -2,7 +2,7 @@
 
 <p>I am a third year IT Engineering student from DJ Sanghvi College of Engineering, Mumbai, India. I have a keen interest in business intelligence & analytics and data analysis. I have deep knowledge of BI tools like Microsoft Power BI and QlikSense in transforming operations reporting processes from manual, Excel-based operations to real time auto updating processing along with the development of self service dashboards. I also have a past experience of working on industrial projects requiring to create reports and dashboards and leading the college student chapter in their decision making and organising competitions across Mumbai.</p>
 
-<h2 align="center">My Technical Skills</h2>
+<h2 align="center">Technical Skills/Softwares</h2>
 <p align="center">
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -20,7 +20,7 @@
      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/></a>
 </p>
 
-<h2 align="center">My Social Links 🔗 </h2>
+<h2 align="center">Social Links 🔗 </h2>
 <p align="center">
 <a href="https://github.com/ishikac167" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg' alt='github' height='40'></a>  
  <a href="https://www.linkedin.com/in/ishika-chokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'> </a> 
