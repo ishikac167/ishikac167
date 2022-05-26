@@ -12,7 +12,7 @@
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<!--   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  -->
       <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="pbi" width="40" height="40"/></a>
      <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
@@ -28,6 +28,9 @@
 </p>
 
 <h3>Check out my entire profile <a href="https://ishikac167.github.io/">here</a>!</h3>
+
+<h2 align="center">GitHub Stats 📈</h2>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ishikac167.ishikac167" /> </p>
 
 <!--
 **ishikac167/ishikac167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
