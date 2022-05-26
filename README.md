@@ -31,6 +31,8 @@
 
 <h2 align="center">GitHub Stats 📈</h2>
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ishikac167.ishikac167" /> </p>
+<p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikac167&layout=compact&show_icons=true&theme=radical" /></p>
+<p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api?username=ishikac167&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></p>
 
 <!--
 **ishikac167/ishikac167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
