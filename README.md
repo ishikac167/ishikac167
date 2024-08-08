@@ -1,6 +1,8 @@
 <h2>Hi there 👋, I'm <font style="color:blue">Ishika Chokshi</font></h2>
 
-<p>I am a third year IT Engineering student from DJ Sanghvi College of Engineering, Mumbai, India. I have a keen interest in business intelligence & analytics and data analysis. I have deep knowledge of BI tools like Microsoft Power BI and QlikSense in transforming operations reporting processes from manual, Excel-based operations to real time auto updating processing along with the development of self service dashboards. I also have a past experience of working on industrial projects requiring to create reports and dashboards and leading the college student chapter in their decision making and organising competitions across Mumbai.</p>
+<p>As a Software Engineer at JPMorgan Chase, I work on the Consumer & Community Banking - Card Cloud DBA team, where I apply my skills in on-prem cloud databases like Cassandra, CockroachDB, and Oracle as well as public cloud databases like AWS AuroraPostrges to create and maintain scalable and reliable database solutions for the card business. I also collaborate with other engineers and stakeholders to ensure the quality and performance of the data systems and processes.
+
+I have completed my Bachelor of Technology in Information Technology from Dwarkadas J. Sanghvi College of Engineering, where I have developed a keen interest in business intelligence and analytics, data analysis, and machine learning. I have completed multiple certifications in Python, SQL, and Tableau from Coursera, and have published two papers on video analytics and healthcare technology in IEEE Xplore and LNNS Springer. I have also gained valuable experience as an intern at JioSaavn, where I created dashboards, ran queries, and derived insights for the Business Insights team. Additionally, I served as the Vice Chairperson (Admin) of the Computer Society of India chapter at my college, where I organized and participated in various competitions and events.</p>
 
 <h2 align="center">Technical Skills/Softwares</h2>
 <p align="center">
@@ -15,9 +17,13 @@
 <!--   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  -->
       <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="pbi" width="40" height="40"/></a>
-     <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+<!--      <a href="https://www.tableau.com/" target="_blank"><img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/></a> -->
         <a href="https://www.qlik.com/us/products/qlik-sense" target="_blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/qlik.svg" alt="qliksense" width="40" height="40"/></a>
      <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vsc" width="40" height="40"/></a>
+   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="vsc" width="40" height="40"/></a>
+   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://allvectorlogo.com/img/2017/02/oracle-database-logo.png" alt="vsc" width="40" height="40"/></a>
+   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2LQvkwtfchzamyGaeiNVzLQA-wr3N3_TGOw&s" alt="vsc" width="40" height="40"/></a>
+   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://i.pinimg.com/originals/94/ca/77/94ca7765db0aa24bc6789e8d215cff7e.png" alt="vsc" width="40" height="40"/></a>
 </p>
 
 <h2 align="center">Social Links 🔗 </h2>
@@ -25,9 +31,10 @@
 <a href="https://github.com/ishikac167" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg' alt='github' height='40'></a>  
  <a href="https://www.linkedin.com/in/ishika-chokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'> </a> 
  <a href="https://www.instagram.com/ishikachokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'></a> 
+<a href="https://www.instagram.com/ishikachokshi/" target="_blank"><img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg' alt='instagram' height='40'></a> 
 </p>
 
-<h3>Check out my entire profile <a href="https://ishikac167.github.io/">here</a>!</h3>
+<h3>Check out my entire profile <a href="https://ishikac167.github.io/" target="_blank">here</a>!</h3>
 
 <h2 align="center">GitHub Stats 📈</h2>
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=ishikac167.ishikac167" /> </p>
